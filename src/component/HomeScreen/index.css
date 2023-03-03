@@ -1,0 +1,28 @@
+.layout-table {
+  border: 1px;
+}
+
+table,
+table td,
+table th {
+  border: 1px solid #000000;
+}
+
+table {
+  width: 800px;
+}
+
+td {
+  height: 40px;
+  width: 20%;
+}
+
+button {
+  min-width: 100px;
+  min-height: 20px;
+}
+
+textarea{
+  height: 100%;
+  resize: none;
+}
